@@ -24,11 +24,7 @@ const quizData = [
       options: ["Java", "C#", "Python", "HTML"],
       answer: "HTML"
     },
-    {
-      question: "What is the name of the world's first computer programmer?",
-      options: ["Charles Babbage", "Ada Lovelace", "Alan Turing", "Grace Hopper"],
-      answer: "Ada Lovelace"
-    },
+
     {
       question: "In what year was the iPhone first introduced?",
       options: ["2005", "2007", "2009", "2011"],
